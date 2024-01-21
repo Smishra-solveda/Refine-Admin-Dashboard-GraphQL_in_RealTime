@@ -1,4 +1,5 @@
 # Refine-Admin-Dashboard-GraphQL_in_RealTime
+useList<> is used to fetch data according to sort, filter, pagination, etc from other resources
 
 **Login**
 ![Screenshot (473)](https://github.com/Smishra-solveda/Refine-Admin-Dashboard-GraphQL_in_RealTime/assets/133752093/2d433160-459b-4215-bb5c-058659bda90b)
